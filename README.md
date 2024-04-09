@@ -1,14 +1,11 @@
 # Hello, I'm Steven
 <a href="https://linkedin.com/in/steventelfer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub portfolio! I'm Steve Telfer, an IT specialist and cybersecurity analyst passionate about safeguarding digital environments. With a blend of technical expertise and strategic thinking, I tackle complex challenges head-on to fortify systems against evolving threats. Explore my projects to see how I translate innovation into practical solutions for today's cybersecurity landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Having honed my skills in IT, I'm now embarking on a focused journey into cybersecurity, driven by a passion to protect digital assets and mitigate risks. I aim to contribute as a cybersecurity analyst, leveraging my technical expertise to safeguard organizations against emerging threats and ensure a resilient digital future.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
