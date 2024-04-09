@@ -8,7 +8,6 @@ Welcome to my GitHub portfolio! I'm Steve Telfer, an IT specialist and cybersecu
 Having honed my skills in IT, I'm now embarking on a focused journey into cybersecurity, driven by a passion to protect digital assets and mitigate risks. I aim to contribute as a cybersecurity analyst, leveraging my technical expertise to safeguard organizations against emerging threats and ensure a resilient digital future.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,36 +19,79 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Owasp%20Zap-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GlassWire-33CCFF?&style=for-the-badge&logo=GlassWire&logoColor=white" />
+
+
+
+
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-000000?&style=for-the-badge&logo=Cuckoo%20Sandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPSWAT%20MetaDefender-00B0FF?&style=for-the-badge&logo=OPSWAT&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hosted.scan-00B0FF?&style=for-the-badge&logo=OPSWAT&logoColor=white" />   
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault_Open_Source_SIEM-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-3399FF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nexpose-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys%20Free%20Scan-F99209?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-222222?&style=for-the-badge&logo=Nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-3F72AF?&style=for-the-badge&logo=Maltego&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpiderFoot-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Incident Response
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault_Open_Source_SIEM-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
+
+### Web Application Security
+<div>
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-222222?&style=for-the-badge&logo=Nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Arachni-151515?&style=for-the-badge&logo=Arachni&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wapiti-FF5733?&style=for-the-badge&logoColor=white" />
+</div>
+
+    
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>    
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Junior%20Cyber%20Security%20Analyst%20Career%20Path-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Foundations%20Associate-006400?&style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 
 ## Projects
