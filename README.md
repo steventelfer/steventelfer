@@ -11,7 +11,7 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Automated Malware Analysis          | <a href="https://github.com/steventelfer/Detection-Lab/tree/main">Malware Analysis Sandbox Implementation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -95,5 +95,5 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/steventelfer/Detection-Lab/tree/main">Malware Analysis Sandbox Implementation</a>
 - SOC Automation Project
