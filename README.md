@@ -83,6 +83,51 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Wapiti-FF5733?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Network Security
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-0095D5?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpiderFoot-FFA500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-4B0082?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-405B62?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fing-44CC44?&style=for-the-badge&logo=Fing&logoColor=white" />
+</div>
+
+### Firewall 
+<div>
+    <img src="https://img.shields.io/badge/-Windows%20Firewall-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault-7B53C1?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20Default%20Firewall-A31900?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smoothwall-1F305E?&style=for-the-badge&logo=Smoothwall&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-2E3192?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TinyWall-00B0FF?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
+</div>
+
+### Malware Analysis 
+<div>
+    <img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-000000?&style=for-the-badge&logo=Cuckoo%20Sandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Joe%20Sandbox-4B275F?&style=for-the-badge&logo=Joe%20Sandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-0066CC?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Radare2-313131?&style=for-the-badge&logo=Radare2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YARA-3A4E84?&style=for-the-badge&logo=YARA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-FFA500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TotalVirus-0088CC?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process%20Hacker-660066?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process%20Monitor-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-00557D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MxToolbox-D60651?&style=for-the-badge&logoColor=white" />
+
+
+
+</div>
+
     
 ## Certifications
 <div>
