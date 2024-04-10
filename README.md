@@ -150,6 +150,10 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
 </div>
 
+### Scripting and Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  </div>
 
  ### Cloud Services
 <div>
@@ -158,6 +162,41 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
+
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Digital_Forensics_Framework_%28DFF%29-324D5C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network_Miner-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-0457A0?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process_Monitor-68BB59?&style=for-the-badge&logo=Windows%20Sysinternals&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-3E3E3E?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Encase-00205B?&style=for-the-badge&logo=Windows%20Sysinternals&logoColor=white" />
+</div>
+
+
+### Technical Support
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TeamViewer-0E8EE9?&style=for-the-badge&logo=TeamViewer&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PuTTY-00A0E0?&style=for-the-badge&logo=PuTTY&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AnyDesk-1B7CCF?&style=for-the-badge&logo=AnyDesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LogMeIn-00A6F0?&style=for-the-badge&logo=LogMeIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GoToAssist-00A6F0?&style=for-the-badge&logo=GoToAssist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zoom-2D8CFF?&style=for-the-badge&logo=Zoom&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Office_365-0078D4?&style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-0052CC?&style=for-the-badge&logo=Microsoft%20Active%20Directory&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Skype-00AFF0?&style=for-the-badge&logo=Skype&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-0098F7?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chrome_Remote_Desktop-0088CC?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+</div>
+
    
 ## Certifications
 <div>
