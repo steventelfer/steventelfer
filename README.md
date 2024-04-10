@@ -13,7 +13,10 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 |-----------------------------------------------|----------------------------|
 | Automated Malware Analysis          | <a href="https://github.com/steventelfer/Detection-Lab/tree/main">Malware Analysis Sandbox Implementation</a>|
 | Email Security Analysis Toolkit | <a href="https://github.com/steventelfer/-Email-Security-Analysis/tree/main">Email Security Analysis</a>|
-| Web Security Analysis         | <a href="https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/blob/main">Web Security Assessment: Nikto & SSL Scan|
+| Web Security Analysis         | <a href="https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/blob/main">Web Security Assessment: Nikto & SSL Scan</a>|
+| Maltego Insights         | <a href="https://github.com/steventelfer/Maltego-Network-Analysis/tree/main">Maltego Network Analysis</a>|
+|
+
 
 ## Tools
 
@@ -228,3 +231,4 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 - <a href="https://github.com/steventelfer/Detection-Lab/tree/main">Malware Analysis Sandbox Implementation</a>
 - <a href="https://github.com/steventelfer/-Email-Security-Analysis/tree/main">Email Security Analysis</a>
 - <a href="https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/blob/main">Web Security Assessment: Nikto & SSL Scan
+- <a href="https://github.com/steventelfer/Maltego-Network-Analysis/tree/main">Maltego Network Analysis</a>
