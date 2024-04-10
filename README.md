@@ -29,10 +29,6 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-GlassWire-33CCFF?&style=for-the-badge&logo=GlassWire&logoColor=white" />
-
-
-
-
 </div>
 
 ### Endpoint
@@ -123,12 +119,46 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-PEStudio-00557D?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
     <img src="https://img.shields.io/badge/-MxToolbox-D60651?&style=for-the-badge&logoColor=white" />
-
-
-
 </div>
 
-    
+### Malware Detection and Removal (Anti-virus)
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Anti_virus-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bitdefender-ED1C24?&style=for-the-badge&logo=Bitdefender&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sophos-00ADEF?&style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Malwarebytes-FF9900?&style=for-the-badge&logo=Malwarebytes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hitman_Pro-FF0000?&style=for-the-badge&logo=HitmanPro&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RKill-800000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Comodo-990000?&style=for-the-badge&logo=Comodo&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ESET-52C838?&style=for-the-badge&logo=ESET&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Norton_Power_Eraser-003399?&style=for-the-badge&logo=Symantec&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rogue_Killer-990000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky-0066CC?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
+</div>
+
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot_OS-3498DB?&style=for-the-badge&logo=Parrot%20OS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KDE_Plasma-1D99F3?&style=for-the-badge&logo=KDE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
+</div>
+
+
+ ### Cloud Services
+<div>
+    <img src="https://img.shields.io/badge/-AWS_Essentials-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_Cloud-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+</div>
+   
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
