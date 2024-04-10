@@ -176,6 +176,25 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Encase-00205B?&style=for-the-badge&logo=Windows%20Sysinternals&logoColor=white" />
 </div>
 
+### OSINT (Open Source Intelligence)
+<div>
+    <img src="https://img.shields.io/badge/-Maltego-4B0082?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpiderFoot-FFA500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHarvester-36393F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT_Framework-324D5C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spokeo-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Recon_ng-880000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Intelligence_X-0F9D58?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Dorking-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HaveIBeenPwned-3300CC?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExploitDB-F16121?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Censys-2F9EBE?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hunter-FF9E0F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ZoomEye-FF1A00?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mitaka-00599C?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 ### Technical Support
 <div>
