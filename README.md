@@ -29,6 +29,9 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-GlassWire-33CCFF?&style=for-the-badge&logo=GlassWire&logoColor=white" />
+    <img src="https://img.shields.io/badge/-netstat-2E86C1?&style=for-the-badge&logo=netstat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-sniffnet-2E86C1?&style=for-the-badge&logo=sniffnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Xirrus_WiFi_Inspector-2E86C1?&style=for-the-badge&logo=Xirrus&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -101,6 +104,14 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-TinyWall-00B0FF?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
+</div>
+
+VPNs
+<div>
+    <img src="https://img.shields.io/badge/-OpenVPN-00A4EF?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProtonVPN-4B275F?&style=for-the-badge&logo=ProtonVPN&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WireGuard-2ECC71?&style=for-the-badge&logo=WireGuard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mullvad%20VPN-000000?&style=for-the-badge&logo=Mullvad%20VPN&logoColor=white" />
 </div>
 
 ### Malware Analysis 
