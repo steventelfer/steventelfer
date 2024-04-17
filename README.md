@@ -106,13 +106,30 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
 </div>
 
-VPNs
+### VPNs
 <div>
     <img src="https://img.shields.io/badge/-OpenVPN-00A4EF?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
     <img src="https://img.shields.io/badge/-ProtonVPN-4B275F?&style=for-the-badge&logo=ProtonVPN&logoColor=white" />
     <img src="https://img.shields.io/badge/-WireGuard-2ECC71?&style=for-the-badge&logo=WireGuard&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mullvad%20VPN-000000?&style=for-the-badge&logo=Mullvad%20VPN&logoColor=white" />
 </div>
+
+### Cryptography
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-7-Zip-000000?&style=for-the-badge&logo=7-Zip&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BitLocker-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VeraCrypt-00BFFF?&style=for-the-badge&logo=VeraCrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GtkHash-2C3539?&style=for-the-badge&logo=Gtk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GPG4-0093D1?&style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HashCalc-008080?&style=for-the-badge&logo=Calculator&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tor-7E4798?&style=for-the-badge&logo=Tor%20Project&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNU-2088FF?&style=for-the-badge&logo=GNU&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hex%20Workshop-CC6600?&style=for-the-badge&logo=Hex%20Workshop&logoColor=white" />
+</div>
+
+
 
 ### Malware Analysis 
 <div>
