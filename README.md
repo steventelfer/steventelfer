@@ -183,13 +183,17 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
   </div>
 
- ### Cloud Services
+### Cloud Services
 <div>
     <img src="https://img.shields.io/badge/-AWS_Essentials-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM_Cloud-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Podman-5965E1?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nextcloud-0082C9?&style=for-the-badge&logo=Nextcloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Webmin-00BFFF?&style=for-the-badge&logo=Webmin&logoColor=white" />
 </div>
+
 
 ### Digital Forensics
 <div>
