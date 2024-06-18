@@ -15,7 +15,7 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 | Email Security Analysis Toolkit | <a href="https://github.com/steventelfer/-Email-Security-Analysis/tree/main">Email Security Analysis</a>|
 | Web Security Analysis         | <a href="https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/blob/main">Web Security Assessment: Nikto & SSL Scan</a>|
 | Maltego Insights         | <a href="https://github.com/steventelfer/Maltego-Network-Analysis/tree/main">Maltego Network Analysis</a>|
-| AI Chatbot Project Implementation          | <a href="https://https://github.com/steventelfer/AI-Chatbot-Project-Implementation">Cyberguide Chatbot </a>|
+| AI Chatbot Project Implementation          | <a href="https://github.com/steventelfer/AI-Chatbot-Project-Implementation">Cyberguide Chatbot </a>|
 
 
 ## Tools
