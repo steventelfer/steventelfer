@@ -80,7 +80,14 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Nikto-222222?&style=for-the-badge&logo=Nikto&logoColor=white" />
     <img src="https://img.shields.io/badge/-Arachni-151515?&style=for-the-badge&logo=Arachni&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wapiti-FF5733?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Acunetix-EE0000?&style=for-the-badge&logo=Acunetix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSL_Labs-0033CC?&style=for-the-badge&logo=SSL%20Labs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Barracuda-1791D8?&style=for-the-badge&logo=Barracuda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pentest_Tools-0078D7?&style=for-the-badge&logo=Pentest%20Tools&logoColor=white" />
 </div>
+
 
 ### Network Security
 <div>
