@@ -285,5 +285,5 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 - <a href="https://github.com/steventelfer/-Email-Security-Analysis/tree/main">Email Security Analysis</a>
 - <a href="https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/blob/main">Web Security Assessment: Nikto & SSL Scan
 - <a href="https://github.com/steventelfer/Maltego-Network-Analysis/tree/main">Maltego Network Analysis</a>
-- <a href="https://github.com/steventelfer/AI-Chatbot-Project-Implementation-">Cyberguide Chatbot</a>|
+- <a href="https://github.com/steventelfer/AI-Chatbot-Project-Implementation-">Cyberguide Chatbot</a>
 
