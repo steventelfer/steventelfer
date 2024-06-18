@@ -202,6 +202,16 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 </div>
 
 
+### Virtual Machines and Containers
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNOME_Boxes-4A86CF?&style=for-the-badge&logo=GNOME&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Podman-5965E1?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+</div>
+
+
 ### Digital Forensics
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
