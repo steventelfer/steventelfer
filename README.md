@@ -242,6 +242,10 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
     <img src="https://img.shields.io/badge/-Hunter-FF9E0F?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-ZoomEye-FF1A00?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mitaka-00599C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Namechk-0E76A8?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Numlookup-0F9D58?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT_Combine-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT_Industries-1A237E?&style=for-the-badge&logoColor=white" />
 </div>
 
 
