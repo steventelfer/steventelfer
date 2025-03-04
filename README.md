@@ -18,7 +18,7 @@ Having honed my skills in IT, I'm now embarking on a focused journey into cybers
 | AI Chatbot Project Implementation          | <a href="https://github.com/steventelfer/AI-Chatbot-Project-Implementation-">Cyberguide Chatbot</a>|
 
 
-## Tools ## /Software
+## Tools/Software
 
 ### Network
 <div>
